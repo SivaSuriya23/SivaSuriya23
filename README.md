@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science courses
 - 💞️ I’m looking to collaborate on who are ready to give a job for me into Data Science
-- 📫 How to reach me ... Email me to dsivasuriya@gmail.com or Message me +91 9080085538
+- 📫 How to reach me ... Email me to dsivasuriya@gmail.com
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ... Today is another valuable day of my life.
 
