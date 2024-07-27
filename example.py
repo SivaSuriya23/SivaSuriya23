@@ -1,4 +1,14 @@
 import streamlit as st
+import subprocess
+import sys
+
+# Function to print installed packages
+def print_installed_packages():
+    result = subprocess.run([sys.executable, "-m", "pip", "freeze"], stdout=subprocess.PIPE)
+    st.text(result.stdout.decode('utf-8'))
+
+print_installed_packages()
+
 import pandas as pd
 from sqlalchemy import create_engine
 import psycopg2
