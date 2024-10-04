@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SivaSuriya23
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science courses
+- 🌱 I’m currently learning Data Science course in GUVI
 - 💞️ I’m looking to collaborate on who are ready to give a job for me into Data Science
 - 📫 How to reach me ... Email me to dsivasuriya@gmail.com
 - 😄 Pronouns: ... He
